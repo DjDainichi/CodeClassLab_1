@@ -1,0 +1,6 @@
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Colide Church Programming Class\CodeClass_Lab1\CodeClass_Lab1\bin\Debug\CodeClass_Lab1.exe.config
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Colide Church Programming Class\CodeClass_Lab1\CodeClass_Lab1\bin\Debug\CodeClass_Lab1.exe
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Colide Church Programming Class\CodeClass_Lab1\CodeClass_Lab1\bin\Debug\CodeClass_Lab1.pdb
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Colide Church Programming Class\CodeClass_Lab1\CodeClass_Lab1\obj\Debug\CodeClass_Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Colide Church Programming Class\CodeClass_Lab1\CodeClass_Lab1\obj\Debug\CodeClass_Lab1.exe
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\Colide Church Programming Class\CodeClass_Lab1\CodeClass_Lab1\obj\Debug\CodeClass_Lab1.pdb
