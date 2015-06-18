@@ -19,24 +19,30 @@ namespace CodeClass_Lab1
 
         static void Main(string[] args)
         {
-
-            addTwoValues(firstUserValue, secondUserValue);
-            Console.WriteLine(totalSum);
+            totalSum = SimpleMathGuy.addTwoValues(firstUserValue,secondUserValue);
+            UserInstructionGuy.DisplayMathResults(totalSum);
+            
             Console.ReadLine();
+
+            totalSum = SimpleMathGuy.subtractTwoValues(firstUserValue, secondUserValue);
+            UserInstructionGuy.DisplayMathResults(totalSum);
+            Console.ReadLine();
+
+            totalSum = SimpleMathGuy.multiplyTwoValues(firstUserValue, secondUserValue);
+            UserInstructionGuy.DisplayMathResults(totalSum);
+            Console.ReadLine();
+
+            totalSum = SimpleMathGuy.divideTwoValues(firstUserValue, secondUserValue);
+            UserInstructionGuy.DisplayMathResults(totalSum);
+            Console.ReadLine();
+
+
         }
 
-        private static int addTwoValues(int firstUserValue, int secondUserValue)
-        {
-            Console.WriteLine("Please enter first value for concatenation");
-            firstUserValue = int.Parse(Console.ReadLine());
-            Console.WriteLine("Please enter second value for concatenation");
-            secondUserValue = int.Parse(Console.ReadLine());
-            totalSum = firstUserValue + secondUserValue;
-              
+       
 
-            return totalSum;
 
-        }
+
 
     }
 }
